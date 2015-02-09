@@ -1,0 +1,7 @@
+* pioneer3at
+Based on [[http://wiki.ros.org/p2os][P2OS]] and [[https://github.com/balakumar-s/p3atGazeboRos][p3atGazeboRos]]
+
+** Gazebo simulation of pioneer 3at with hokuyo laser with ROS hydro plugins
+
+Run demo.launch file to start the simulation.
+Run gmapping.launch to start gmapping.
